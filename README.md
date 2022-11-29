@@ -1,4 +1,4 @@
-
+...
 # Javascript Callbacks and Advanced Arrays
 
 With some basic JavaScript principles in hand, we can now expand our skills out even further by exploring callback functions and array methods.  Finish each task in order as the concepts build on one another.
